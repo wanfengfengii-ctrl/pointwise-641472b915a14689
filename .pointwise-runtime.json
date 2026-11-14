@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "kind": "cli",
+  "setup": [],
+  "verify": [
+    "python3",
+    "analysis_check.py",
+    "baseline"
+  ],
+  "demo": [
+    "python3",
+    "analysis_probe.py",
+    "all"
+  ]
+}
