@@ -5,7 +5,7 @@
   "verify": [
     "python3",
     "analysis_check.py",
-    "baseline"
+    "verify"
   ],
   "demo": [
     "python3",
